@@ -5,7 +5,8 @@ Instruções para utilizar o programa
    1.2)Os arquivos referentes ao trabalho estão na pasta "Trabalho Busca Binaria";
  	 
 2)Abra o console/terminal de sua escolha;
- 	 
+   2.1)Use o comando cd *CAMINHO DA PASTA DO PROJETO*
+
 3)(Caso for usar o .jar esse passo é desnecessário)Compile as classes Main.java e Endereco.java (usando o comando javac Main.java Endereco.java);
  	 
 4)Na hora de executar o programa(usando o comando "java Main" ou "java java -jar myjar.jar") é necessário inserir o CEP a ser procurado (de forma que o comando fique "java Main *SEU CEP*" ou "java -jar myJARFile.jar *SEU CEP*");
