@@ -8,7 +8,7 @@ Instruções para utilizar o programa
 
 3)Compile as classes Main.java e Endereco.java (usando o comando javac Main.java Endereco.java);
 
-4)Na hora de executar o programa(usando o comando java Main) é necessário inserir o CEP a ser procurado (de forma que o comando fique java Main *SEU CEP*);
+4)Na hora de executar o programa(usando o comando "java Main" ou "java java -jar myjar.jar") é necessário inserir o CEP a ser procurado (de forma que o comando fique "java Main *SEU CEP*" ou "java -jar myJARFile.jar *SEU CEP*");
    4.1)O CEP deve ser composto apenas por números sempre tem 8               caracteres;
 
 5)Após isso o programa funcionará e fornecerá os dados referentes ao CEP inserido, ou dirá que tal CEP não existe;
